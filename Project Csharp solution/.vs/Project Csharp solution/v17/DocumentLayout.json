@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|c:\\users\\mohamed\\desktop\\project csharp solution\\project csharp\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|solutionrelative:project csharp\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|c:\\users\\mohamed\\desktop\\project csharp solution\\project csharp\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|solutionrelative:project csharp\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|c:\\users\\mohamed\\desktop\\project csharp solution\\project csharp\\practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|solutionrelative:project csharp\\practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|c:\\users\\mohamed\\desktop\\project csharp solution\\project csharp\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|solutionrelative:project csharp\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|c:\\users\\mohamed\\desktop\\project csharp solution\\project csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|solutionrelative:project csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|c:\\users\\mohamed\\desktop\\project csharp solution\\project csharp\\tfquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|solutionrelative:project csharp\\tfquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|c:\\users\\mohamed\\desktop\\project csharp solution\\project csharp\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|solutionrelative:project csharp\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|c:\\users\\mohamed\\desktop\\project csharp solution\\project csharp\\answerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|solutionrelative:project csharp\\answerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|c:\\users\\mohamed\\desktop\\project csharp solution\\project csharp\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6478FF5C-FE81-4852-8B3D-E670EB87F9A0}|Project Csharp\\Project Csharp.csproj|solutionrelative:project csharp\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\FinalExam.cs",
+              "RelativeDocumentMoniker": "Project Csharp\\FinalExam.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\FinalExam.cs",
+              "RelativeToolTip": "Project Csharp\\FinalExam.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:05:56.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PracticeExam.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\PracticeExam.cs",
+              "RelativeDocumentMoniker": "Project Csharp\\PracticeExam.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\PracticeExam.cs",
+              "RelativeToolTip": "Project Csharp\\PracticeExam.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:59:20.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\Exam.cs",
+              "RelativeDocumentMoniker": "Project Csharp\\Exam.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\Exam.cs",
+              "RelativeToolTip": "Project Csharp\\Exam.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:37:30.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MCQQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\MCQQuestion.cs",
+              "RelativeDocumentMoniker": "Project Csharp\\MCQQuestion.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\MCQQuestion.cs",
+              "RelativeToolTip": "Project Csharp\\MCQQuestion.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:38:56.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TFQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\TFQuestion.cs",
+              "RelativeDocumentMoniker": "Project Csharp\\TFQuestion.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\TFQuestion.cs",
+              "RelativeToolTip": "Project Csharp\\TFQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:34:22.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnswerList.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\AnswerList.cs",
+              "RelativeDocumentMoniker": "Project Csharp\\AnswerList.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\AnswerList.cs",
+              "RelativeToolTip": "Project Csharp\\AnswerList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:30:37.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\Answer.cs",
+              "RelativeDocumentMoniker": "Project Csharp\\Answer.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\Answer.cs",
+              "RelativeToolTip": "Project Csharp\\Answer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:17:51.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\Question.cs",
+              "RelativeDocumentMoniker": "Project Csharp\\Question.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\Question.cs",
+              "RelativeToolTip": "Project Csharp\\Question.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:15:02.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Project Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Project Csharp solution\\Project Csharp\\Program.cs",
+              "RelativeToolTip": "Project Csharp\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:19:54.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
